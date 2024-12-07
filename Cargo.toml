@@ -1,0 +1,9 @@
+[package]
+name = "terminal_fireworks"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+pixel_loop = "0.1.0"
+anyhow = "1.0.94"
